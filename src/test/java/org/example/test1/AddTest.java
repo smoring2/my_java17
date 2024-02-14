@@ -1,6 +1,5 @@
-package test1;
+package org.example.test1;
 
-import org.example.test1.Add;
 import org.junit.Assert;
 import org.junit.Test;
 

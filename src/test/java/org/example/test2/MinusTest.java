@@ -1,4 +1,4 @@
-package test2;
+package org.example.test2;
 
 import org.example.test2.Minus;
 import org.junit.Assert;
